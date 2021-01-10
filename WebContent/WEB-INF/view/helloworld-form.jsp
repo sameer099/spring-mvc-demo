@@ -3,7 +3,7 @@
 
 <head>
 	<title>HELLO WORLD -INPUT FORM</title>
-</head>>
+</head>
 
 <body>
 	
